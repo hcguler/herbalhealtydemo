@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AppLayoutModule } from './layout/app.layout.module';
 import { CardModule } from 'primeng/card';
+import { APP_BASE_HREF } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,9 @@ import { CardModule } from 'primeng/card';
     AppLayoutModule,
     CardModule
   ],
-  providers: [],
+  providers: [
+    { provide: APP_BASE_HREF, useValue: '/herbalhealtydemo/' }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule {
