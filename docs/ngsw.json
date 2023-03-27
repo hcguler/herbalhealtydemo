@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679224645062,
+  "timestamp": 1679931260655,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,15 +12,15 @@
       },
       "urls": [
         "/130.ccb7281fd7699355.js",
+        "/240.356bd62035123e8b.js",
         "/343.824577ad9e3770ce.js",
-        "/499.f0ec814e27f86b91.js",
         "/819.90fe3421ee98f9a5.js",
         "/favicon.ico",
         "/index.html",
-        "/main.97a041171d9ea3a2.js",
+        "/main.b145116d00577a51.js",
         "/manifest.webmanifest",
         "/polyfills.60b0ddddf747b808.js",
-        "/runtime.53d3b76f254b031a.js",
+        "/runtime.47a09f2ffbbee717.js",
         "/styles.bcf583d168084f11.css"
       ],
       "patterns": []
@@ -33,6 +33,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/data/product/arisutu.png",
+        "/assets/data/product/camfistigi.png",
+        "/assets/data/product/hindistan.png",
+        "/assets/data/products.json",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -197,9 +201,13 @@
   "dataGroups": [],
   "hashTable": {
     "/130.ccb7281fd7699355.js": "3aa476c65ac78f5c25ab99f082c7ff8a65c9ec7b",
+    "/240.356bd62035123e8b.js": "6197c50591e0d03b6d25b52276193fda7792bb9b",
     "/343.824577ad9e3770ce.js": "fd29202ceed325bcb324555cf07658d1020c3988",
-    "/499.f0ec814e27f86b91.js": "36f816ecc71fed4dea788a7cfad6540c33adadce",
     "/819.90fe3421ee98f9a5.js": "2e7c1575b7f9063dbb2850d53568738d56744ffe",
+    "/assets/data/product/arisutu.png": "ac61624677e27a149ca6502e3342f266dc05775f",
+    "/assets/data/product/camfistigi.png": "c3d655426a12251eaf6a3584b86f1973f6b29399",
+    "/assets/data/product/hindistan.png": "ef3e2f77068c56b2d5bea51b9de152dd91357075",
+    "/assets/data/products.json": "12ad0ea3a21cf611d8c10473251925d8c133f408",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -354,15 +362,15 @@
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "d0319080851fc0b55e7ab6c97d7c0312f59decd7",
-    "/main.97a041171d9ea3a2.js": "8a14a26dd0cca31eadbebe5ab087026c111ddd71",
+    "/index.html": "af2afe7d72d58915e5642c23abb7fe1813744ace",
+    "/main.b145116d00577a51.js": "eb4f0810dd0b3816dd2ea0ec0858dc9e173545dc",
     "/manifest.webmanifest": "d82d4da578b1d92f2bd15f94e4265adae347eb57",
     "/polyfills.60b0ddddf747b808.js": "36c59b7d0901b04cd44e6ce2812b78d84a74f7dd",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
     "/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
     "/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
     "/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
-    "/runtime.53d3b76f254b031a.js": "47d63c8f56360f588b6bd183cf9d3f3d1151e24a",
+    "/runtime.47a09f2ffbbee717.js": "51a81e564a28eb9322f3f0fc8233468748883344",
     "/styles.bcf583d168084f11.css": "a1e782ac9358484d5a236ccefecef187518d0e88"
   },
   "navigationUrls": [

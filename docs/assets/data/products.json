@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "Çam Fıstığı",
+			"description": "Çam Fıstığı",
+			"image": "camfistigi.png",
+			"price": 65,
+			"category": "Baharat",
+			"quantity": 24,
+			"inventoryStatus": "MEVCUT",
+			"rating": 5
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "Arı Sütü",
+			"description": "Arı Sütü",
+			"image": "arisutu.png",
+			"price": 72,
+			"category": "Bal",
+			"quantity": 61,
+			"inventoryStatus": "STOKTA KALMADI",
+			"rating": 4
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"name": "Hindistan Cevizi Yağı",
+			"description": "Hindistan Cevizi Yağı",
+			"image": "hindistan.png",
+			"price": 79,
+			"category": "Yağ",
+			"quantity": 2,
+			"inventoryStatus": "STOKTA AZ",
+			"rating": 3
+		}
+	]
+}
